@@ -22,7 +22,7 @@ projects:
   #   - pushed
   #   - stars
   limit: 20
-  exclude:=
+  exclude:
     archived: false
     forks: true
     projects:
